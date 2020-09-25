@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DM Solution Documentation", "DM Solution Documentation", "{F291BD3E-0C21-4BC8-9AC1-8BF16138E00C}"
+	ProjectSection(SolutionItems) = preProject
+		DM Solution Documentation\Riverbend Solution Documentation.docx = DM Solution Documentation\Riverbend Solution Documentation.docx
+		DM Solution Documentation\Riverbend Solution Workbook.xlsx = DM Solution Documentation\Riverbend Solution Workbook.xlsx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60B8AD60-091D-47E8-A6BE-4173EF731825}
+	EndGlobalSection
+EndGlobal
